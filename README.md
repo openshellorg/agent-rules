@@ -14,3 +14,7 @@ Clone or fetch that repo (`$CODE_ROOT/github.com/dev-centr/agent-rules`). Juncti
 
 - Org-specific guidance: commit in this repo
 - Shared rules/skills: PR https://github.com/dev-centr/agent-rules
+
+## Changelog
+
+See [CHANGELOG.adoc](CHANGELOG.adoc).

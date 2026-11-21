@@ -1,0 +1,29 @@
+= Changelog
+
+== 2026-11-20
+
+=== Docs template pointer
+
+* Record the suggested default docs template from dev-centr/agent-rules. The choice is a URL in this repo, not a pasted copy of the template.
+
+== 2026-10-06
+
+=== ci enable Dependabot for GitHub Actions (monthly, grouped)
+
+* ci: enable Dependabot for GitHub Actions (monthly, grouped)
+
+== 2026-10-05
+
+=== Add encoding guard (UTF-8 mojibake check)
+
+* Add encoding guard (UTF-8 mojibake check).
+
+== 2026-08-18
+
+=== Create org wrapper for shared agent-rules template
+
+* Create org wrapper for shared agent-rules template.
+* Maintain org agent-rules wrapper with dev-centr template submodule.
+* Point at canonical agent-rules instead of a pinning submodule.
+* Point at canonical agent-rules instead of a pinning submodule.
+
